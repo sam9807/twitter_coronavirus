@@ -7,7 +7,7 @@ Once I have successfully reduced all the data by language and country, I have or
 in the viz/lang and viz/country folder respectively. You will be able to see the statistics in
 the viz folder on this page. 
 
-##Process
+## Process
 [MapReduce](https://en.wikipedia.org/wiki/MapReduce)
 It is a 3 step procedure summarized in the following image:
 
